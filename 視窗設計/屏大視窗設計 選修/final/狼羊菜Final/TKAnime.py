@@ -4,7 +4,7 @@ from winsound import *
 import time
 
 win = Tk()
-win.title("beach")
+win.title("cross river")
 win.geometry("1340x815")
 
 # background method2
